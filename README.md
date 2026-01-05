@@ -10,10 +10,10 @@
 
 **The First Large-Scale Multi-Modal Benchmark for Financial Chart Understanding**
 
-[📊 Dataset](#dataset-https://huggingface.co/datasets/qsWDFGHN/FIN-VQA) | [🚀 Quick Start](#quick-start) | [📖 Documentation](#dataset-structure) | [🎯 Evaluation](#evaluation-protocol) | [📝 Citation](#citation)
+[📊 Dataset](#dataset-overview) | [🚀 Quick Start](#quick-start) | [📖 Documentation](#dataset-structure) | [🎯 Evaluation](#evaluation-protocol) | [📝 Citation](#citation)
 
 </div>
-
+https://huggingface.co/datasets/qsWDFGHN/FIN-VQA
 ---
 
 ## 🎯 Abstract
