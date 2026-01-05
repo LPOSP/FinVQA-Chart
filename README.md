@@ -1,5 +1,5 @@
 # FinVQA-Chart: Financial Vision-Language Reasoning at Scale
-                                    https://huggingface.co/datasets/qsWDFGHN/FIN-VQA
+                                     https://huggingface.co/datasets/qsWDFGHN/FIN-VQA
 
 <div align="center">
 
