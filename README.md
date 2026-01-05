@@ -4,8 +4,8 @@
 
 [![Dataset](https://img.shields.io/badge/Dataset-FinVQA--Chart-blue.svg)](.)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![CVPR](https://img.shields.io/badge/Conference-CVPR%202025-red.svg)](.)
-[![Questions](https://img.shields.io/badge/Questions-141.3K-orange.svg)](.)
+[![ACL](https://img.shields.io/badge/Conference-ACL%202026-red.svg)](.)
+[![Questions](https://img.shields.io/badge/Questions-149.0K-orange.svg)](.)
 [![Images](https://img.shields.io/badge/Images-9.96K-purple.svg)](.)
 
 **The First Large-Scale Multi-Modal Benchmark for Financial Chart Understanding**
@@ -23,7 +23,7 @@
 - **Real-world financial data** spanning 5 years (2020-2024) across critical market periods (COVID crash, inflation surge, Fed tightening)
 - **Multi-modal reasoning** requiring simultaneous understanding of visual patterns, numerical data, and market context
 - **Technical analysis depth** with 35,000+ professionally detected candlestick patterns and technical signals
-- **Scale and diversity** with 141,266 questions across 7 distinct reasoning types and 3 difficulty levels
+- **Scale and diversity** with 149,000 questions across 7 distinct reasoning types and 3 difficulty levels
 
 This dataset pushes the boundaries of VLM capabilities by requiring models to integrate visual chart interpretation, numerical reasoning, temporal understanding, and domain-specific financial knowledge—tasks that remain challenging for even state-of-the-art models.
 
@@ -702,6 +702,4 @@ Multi-Modal    █████████████████████�
 
 ---
 
-### Hard - Multi-Modal (Contextual Reasoning)
-**Image**: Tech stocks during Q1 2024  
-**Text**: "Rate cut anticipation,
+
